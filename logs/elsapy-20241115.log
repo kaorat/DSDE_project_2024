@@ -1,0 +1,9 @@
+2024-11-15 17:32:22,161 - elsapy.elsclient - INFO - Module loaded.
+2024-11-15 17:32:22,590 - elsapy.utils - INFO - Module loaded.
+2024-11-15 17:32:22,590 - elsapy.elssearch - INFO - Module loaded.
+2024-11-15 17:32:23,163 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=Ada+Lovelace
+2024-11-15 17:34:34,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=Ada+Lovelace
+2024-11-15 18:56:54,935 - elsapy.elsclient - INFO - Module loaded.
+2024-11-15 18:56:55,570 - elsapy.utils - INFO - Module loaded.
+2024-11-15 18:56:55,570 - elsapy.elssearch - INFO - Module loaded.
+2024-11-15 18:56:55,937 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=Ada+Lovelace
