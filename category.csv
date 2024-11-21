@@ -1,0 +1,322 @@
+code,abbrev,subject
+1000,MULT,Multidisciplinary
+1100,AGRI,Agricultural and Biological Sciences (all)
+1101,AGRI,Agricultural and Biological Sciences (miscellaneous)
+1102,AGRI,Agronomy and Crop Science
+1103,AGRI,Animal Science and Zoology
+1104,AGRI,Aquatic Science
+1105,AGRI,"Ecology, Evolution, Behavior and Systematics"
+1106,AGRI,Food Science
+1107,AGRI,Forestry
+1108,AGRI,Horticulture
+1109,AGRI,Insect Science
+1110,AGRI,Plant Science
+1111,AGRI,Soil Science
+1200,ARTS,Arts and Humanities (all)
+1201,ARTS,Arts and Humanities (miscellaneous)
+1202,ARTS,History
+1203,ARTS,Language and Linguistics
+1204,ARTS,Archeology (arts and humanities)
+1206,ARTS,Conservation
+1207,ARTS,History and Philosophy of Science
+1208,ARTS,Literature and Literary Theory
+1209,ARTS,Museology
+1210,ARTS,Music
+1211,ARTS,Philosophy
+1212,ARTS,Religious Studies
+1213,ARTS,Visual Arts and Performing Arts
+1300,BIOC,"Biochemistry, Genetics and Molecular Biology (all)"
+1301,BIOC,"Biochemistry, Genetics and Molecular Biology (miscellaneous)"
+1302,BIOC,Aging
+1303,BIOC,Biochemistry
+1304,BIOC,Biophysics
+1305,BIOC,Biotechnology
+1306,BIOC,Cancer Research
+1307,BIOC,Cell Biology
+1308,BIOC,Clinical Biochemistry
+1309,BIOC,Developmental Biology
+1310,BIOC,Endocrinology
+1311,BIOC,Genetics
+1312,BIOC,Molecular Biology
+1313,BIOC,Molecular Medicine
+1314,BIOC,Physiology
+1315,BIOC,Structural Biology
+1400,BUSI,"Business, Management and Accounting (all)"
+1401,BUSI,"Business, Management and Accounting (miscellaneous)"
+1402,BUSI,Accounting
+1403,BUSI,Business and International Management
+1404,BUSI,Management Information Systems
+1405,BUSI,Management of Technology and Innovation
+1406,BUSI,Marketing
+1407,BUSI,Organizational Behavior and Human Resource Management
+1408,BUSI,Strategy and Management
+1409,BUSI,"Tourism, Leisure and Hospitality Management"
+1410,BUSI,Industrial Relations
+1500,CENG,Chemical Engineering (all)
+1501,CENG,Chemical Engineering (miscellaneous)
+1502,CENG,Bioengineering
+1503,CENG,Catalysis
+1504,CENG,Chemical Health and Safety
+1505,CENG,Colloid and Surface Chemistry
+1506,CENG,Filtration and Separation
+1507,CENG,Fluid Flow and Transfer Processes
+1508,CENG,Process Chemistry and Technology
+1600,CHEM,Chemistry (all)
+1601,CHEM,Chemistry (miscellaneous)
+1602,CHEM,Analytical Chemistry
+1603,CHEM,Electrochemistry
+1604,CHEM,Inorganic Chemistry
+1605,CHEM,Organic Chemistry
+1606,CHEM,Physical and Theoretical Chemistry
+1607,CHEM,Spectroscopy
+1700,COMP,Computer Science (all)
+1701,COMP,Computer Science (miscellaneous)
+1702,COMP,Artificial Intelligence
+1703,COMP,Computational Theory and Mathematics
+1704,COMP,Computer Graphics and Computer-Aided Design
+1705,COMP,Computer Networks and Communications
+1706,COMP,Computer Science Applications
+1707,COMP,Computer Vision and Pattern Recognition
+1708,COMP,Hardware and Architecture
+1709,COMP,Human-Computer Interaction
+1710,COMP,Information Systems
+1711,COMP,Signal Processing
+1712,COMP,Software
+1800,DECI,Decision Sciences (all)
+1801,DECI,Decision Sciences (miscellaneous)
+1802,DECI,Information Systems and Management
+1803,DECI,Management Science and Operations Research
+1804,DECI,"Statistics, Probability and Uncertainty"
+1900,EART,Earth and Planetary Sciences (all)
+1901,EART,Earth and Planetary Sciences (miscellaneous)
+1902,EART,Atmospheric Science
+1903,EART,Computers in Earth Sciences
+1904,EART,Earth-Surface Processes
+1905,EART,Economic Geology
+1906,EART,Geochemistry and Petrology
+1907,EART,Geology
+1908,EART,Geophysics
+1909,EART,Geotechnical Engineering and Engineering Geology
+1910,EART,Oceanography
+1911,EART,Paleontology
+1912,EART,Space and Planetary Science
+1913,EART,Stratigraphy
+2000,ECON,"Economics, Econometrics and Finance (all)"
+2001,ECON,"Economics, Econometrics and Finance (miscellaneous)"
+2002,ECON,Economics and Econometrics
+2003,ECON,Finance
+2100,ENER,Energy (all)
+2101,ENER,Energy (miscellaneous)
+2102,ENER,Energy Engineering and Power Technology
+2103,ENER,Fuel Technology
+2104,ENER,Nuclear Energy and Engineering
+2105,ENER,"Renewable Energy, Sustainability and the Environment"
+2200,ENGI,Engineering (all)
+2201,ENGI,Engineering (miscellaneous)
+2202,ENGI,Aerospace Engineering
+2203,ENGI,Automotive Engineering
+2204,ENGI,Biomedical Engineering
+2205,ENGI,Civil and Structural Engineering
+2206,ENGI,Computational Mechanics
+2207,ENGI,Control and Systems Engineering
+2208,ENGI,Electrical and Electronic Engineering
+2209,ENGI,Industrial and Manufacturing Engineering
+2210,ENGI,Mechanical Engineering
+2211,ENGI,Mechanics of Materials
+2212,ENGI,Ocean Engineering
+2213,ENGI,"Safety, Risk, Reliability and Quality"
+2214,ENGI,Media Technology
+2215,ENGI,Building and Construction
+2216,ENGI,Architecture
+2300,ENVI,Environmental Science (all)
+2301,ENVI,Environmental Science (miscellaneous)
+2302,ENVI,Ecological Modeling
+2303,ENVI,Ecology
+2304,ENVI,Environmental Chemistry
+2305,ENVI,Environmental Engineering
+2306,ENVI,Global and Planetary Change
+2307,ENVI,"Health, Toxicology and Mutagenesis"
+2308,ENVI,"Management, Monitoring, Policy and Law"
+2309,ENVI,Nature and Landscape Conservation
+2310,ENVI,Pollution
+2311,ENVI,Waste Management and Disposal
+2312,ENVI,Water Science and Technology
+2400,IMMU,Immunology and Microbiology (all)
+2401,IMMU,Immunology and Microbiology (miscellaneous)
+2402,IMMU,Applied Microbiology and Biotechnology
+2403,IMMU,Immunology
+2404,IMMU,Microbiology
+2405,IMMU,Parasitology
+2406,IMMU,Virology
+2500,MATE,Materials Science (all)
+2501,MATE,Materials Science (miscellaneous)
+2502,MATE,Biomaterials
+2503,MATE,Ceramics and Composites
+2504,MATE,"Electronic, Optical and Magnetic Materials"
+2505,MATE,Materials Chemistry
+2506,MATE,Metals and Alloys
+2507,MATE,Polymers and Plastics
+2508,MATE,"Surfaces, Coatings and Films"
+2600,MATH,Mathematics (all)
+2601,MATH,Mathematics (miscellaneous)
+2602,MATH,Algebra and Number Theory
+2603,MATH,Analysis
+2604,MATH,Applied Mathematics
+2605,MATH,Computational Mathematics
+2606,MATH,Control and Optimization
+2607,MATH,Discrete Mathematics and Combinatorics
+2608,MATH,Geometry and Topology
+2609,MATH,Logic
+2610,MATH,Mathematical Physics
+2611,MATH,Modeling and Simulation
+2612,MATH,Numerical Analysis
+2613,MATH,Statistics and Probability
+2614,MATH,Theoretical Computer Science
+2700,MEDI,Medicine (all)
+2701,MEDI,Medicine (miscellaneous)
+2702,MEDI,Anatomy
+2703,MEDI,Anesthesiology and Pain Medicine
+2704,MEDI,Biochemistry (medical)
+2705,MEDI,Cardiology and Cardiovascular Medicine
+2706,MEDI,Critical Care and Intensive Care Medicine
+2707,MEDI,Complementary and Alternative Medicine
+2708,MEDI,Dermatology
+2711,MEDI,Emergency Medicine
+2712,MEDI,"Endocrinology, Diabetes and Metabolism"
+2713,MEDI,Epidemiology
+2714,MEDI,Family Practice
+2715,MEDI,Gastroenterology
+2716,MEDI,Genetics (clinical)
+2717,MEDI,Geriatrics and Gerontology
+2718,MEDI,Health Informatics
+2719,MEDI,Health Policy
+2720,MEDI,Hematology
+2721,MEDI,Hepatology
+2722,MEDI,Histology
+2723,MEDI,Immunology and Allergy
+2724,MEDI,Internal Medicine
+2725,MEDI,Infectious Diseases
+2726,MEDI,Microbiology (medical)
+2727,MEDI,Nephrology
+2728,MEDI,Neurology (clinical)
+2729,MEDI,Obstetrics and Gynecology
+2730,MEDI,Oncology
+2731,MEDI,Ophthalmology
+2732,MEDI,Orthopedics and Sports Medicine
+2733,MEDI,Otorhinolaryngology
+2734,MEDI,Pathology and Forensic Medicine
+2735,MEDI,"Pediatrics, Perinatology and Child Health"
+2736,MEDI,Pharmacology (medical)
+2737,MEDI,Physiology (medical)
+2738,MEDI,Psychiatry and Mental Health
+2739,MEDI,"Public Health, Environmental and Occupational Health"
+2740,MEDI,Pulmonary and Respiratory Medicine
+2741,MEDI,"Radiology, Nuclear Medicine and Imaging"
+2742,MEDI,Rehabilitation
+2743,MEDI,Reproductive Medicine
+2745,MEDI,Rheumatology
+2746,MEDI,Surgery
+2747,MEDI,Transplantation
+2748,MEDI,Urology
+2800,NEUR,Neuroscience (all)
+2801,NEUR,Neuroscience (miscellaneous)
+2802,NEUR,Behavioral Neuroscience
+2803,NEUR,Biological Psychiatry
+2804,NEUR,Cellular and Molecular Neuroscience
+2805,NEUR,Cognitive Neuroscience
+2806,NEUR,Developmental Neuroscience
+2807,NEUR,Endocrine and Autonomic Systems
+2808,NEUR,Neurology
+2809,NEUR,Sensory Systems
+2900,NURS,Nursing (all)
+2901,NURS,Nursing (miscellaneous)
+2902,NURS,Advanced and Specialized Nursing
+2903,NURS,Assessment and Diagnosis
+2904,NURS,Care Planning
+2905,NURS,Community and Home Care
+2906,NURS,Critical Care Nursing
+2907,NURS,Emergency Nursing
+2908,NURS,Fundamentals and Skills
+2909,NURS,Gerontology
+2910,NURS,"Issues, Ethics and Legal Aspects"
+2911,NURS,Leadership and Management
+2913,NURS,Maternity and Midwifery
+2914,NURS,Medical and Surgical Nursing
+2916,NURS,Nutrition and Dietetics
+2917,NURS,Oncology (nursing)
+2919,NURS,Pediatrics
+2921,NURS,Psychiatric Mental Health
+2922,NURS,Research and Theory
+3000,PHAR,"Pharmacology, Toxicology and Pharmaceutics (all)"
+3001,PHAR,"Pharmacology, Toxicology and Pharmaceutics (miscellaneous)"
+3002,PHAR,Drug Discovery
+3003,PHAR,Pharmaceutical Science
+3004,PHAR,Pharmacology
+3005,PHAR,Toxicology
+3100,PHYS,Physics and Astronomy (all)
+3101,PHYS,Physics and Astronomy (miscellaneous)
+3102,PHYS,Acoustics and Ultrasonics
+3103,PHYS,Astronomy and Astrophysics
+3104,PHYS,Condensed Matter Physics
+3105,PHYS,Instrumentation
+3106,PHYS,Nuclear and High Energy Physics
+3107,PHYS,"Atomic and Molecular Physics, and Optics"
+3108,PHYS,Radiation
+3109,PHYS,Statistical and Nonlinear Physics
+3110,PHYS,Surfaces and Interfaces
+3200,PSYC,Psychology (all)
+3201,PSYC,Psychology (miscellaneous)
+3202,PSYC,Applied Psychology
+3203,PSYC,Clinical Psychology
+3204,PSYC,Developmental and Educational Psychology
+3205,PSYC,Experimental and Cognitive Psychology
+3206,PSYC,Neuropsychology and Physiological Psychology
+3207,PSYC,Social Psychology
+3300,SOCI,Social Sciences (all)
+3301,SOCI,Social Sciences (miscellaneous)
+3302,SOCI,Archeology
+3303,SOCI,Development
+3304,SOCI,Education
+3305,SOCI,"Geography, Planning and Development"
+3306,SOCI,Health (social science)
+3307,SOCI,Human Factors and Ergonomics
+3308,SOCI,Law
+3309,SOCI,Library and Information Sciences
+3310,SOCI,Linguistics and Language
+3311,SOCI,Safety Research
+3312,SOCI,Sociology and Political Science
+3313,SOCI,Transportation
+3314,SOCI,Anthropology
+3315,SOCI,Communication
+3316,SOCI,Cultural Studies
+3317,SOCI,Demography
+3318,SOCI,Gender Studies
+3319,SOCI,Life-span and Life-course Studies
+3320,SOCI,Political Science and International Relations
+3321,SOCI,Public Administration
+3322,SOCI,Urban Studies
+3400,VETE,Veterinary (all)
+3401,VETE,Veterinary (miscellaneous)
+3402,VETE,Equine
+3403,VETE,Food Animals
+3404,VETE,Small Animals
+3500,DENT,Dentistry (all)
+3501,DENT,Dentistry (miscellaneous)
+3502,DENT,Dental Assisting
+3503,DENT,Dental Hygiene
+3504,DENT,Oral Surgery
+3505,DENT,Orthodontics
+3506,DENT,Periodontics
+3600,HEAL,Health Professions (all)
+3601,HEAL,Health Professions (miscellaneous)
+3602,HEAL,Chiropractics
+3603,HEAL,Complementary and Manual Therapy
+3605,HEAL,Health Information Management
+3607,HEAL,Medical Laboratory Technology
+3609,HEAL,Occupational Therapy
+3610,HEAL,Optometry
+3611,HEAL,Pharmacy
+3612,HEAL,"Physical Therapy, Sports Therapy and Rehabilitation"
+3613,HEAL,Podiatry
+3614,HEAL,Radiological and Ultrasound Technology
+3616,HEAL,Speech and Hearing
