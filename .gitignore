@@ -1,2 +1,5 @@
 Project
 *\**.csv
+
+Visualization/*.csv
+!Visualization/merged_trend_data.csv
