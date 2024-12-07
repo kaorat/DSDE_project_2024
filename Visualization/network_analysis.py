@@ -16,7 +16,7 @@ def load_network_from_file(uploaded_file, file_format):
     """Load network from various file formats"""
     try:
         if file_format == 'CSV':
-            df = pd.read_csv(uploaded_file, engine="python", sep=r",|\s+")
+            df = pd.read_csv(uploaded_file, engine="python", quotechar='"', delimiter=",", on_bad_lines="skip")
             if len(df.columns) < 2:
                 raise ValueError("CSV file must have at least two columns for source and target nodes")
             source_col, target_col = df.columns[0], df.columns[1]
