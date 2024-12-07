@@ -3,3 +3,4 @@ Project
 
 Visualization/*.csv
 !Visualization/merged_trend_data.csv
+!Visualization/merged_area_data.csv
