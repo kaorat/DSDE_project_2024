@@ -24,4 +24,22 @@ def load_data():
 df = load_data()
 
 # 1. Trend Keyword
-st.header("Trend Keyword")
+st.header("1. Trend Keyword")
+fig_line = go.Figure()
+
+# Add lines with labels
+fig_line.add_trace(go.Scatter(x=df['Year'], y=df['Count'][df['Keyword'] == 'Machine Learning'], mode='lines', name='Machine Learning'))
+fig_line.add_trace(go.Scatter(x=df['Year'], y=df['Count'][df['Keyword'] == 'COVID-19'], mode='lines', name='COVID-19'))
+fig_line.add_trace(go.Scatter(x=df['Year'], y=df['Count'][df['Keyword'] == 'Climate Change'], mode='lines', name='Climate Change'))
+fig_line.add_trace(go.Scatter(x=df['Year'], y=df['Count'][df['Keyword'] == 'HIV'], mode='lines', name='HIV'))
+fig_line.add_trace(go.Scatter(x=df['Year'], y=df['Count'][df['Keyword'] == 'Hadron-Hadron scattering (experiments)'], mode='lines', name='Hadron Scattering'))
+fig_line.add_trace(go.Scatter(x=df['Year'], y=df['Count'][df['Keyword'] == 'Inflammation'], mode='lines', name='Inflammation'))
+
+fig_line.update_layout(
+    title='Trend Keyword in 5 Years',
+    xaxis_title='Year',
+    yaxis_title='Scopus Amount',
+    height=600, autosize=True
+)
+
+st.plotly_chart(fig_line)
