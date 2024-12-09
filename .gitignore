@@ -1,8 +1,2 @@
 Project
 *\**.csv
-
-Visualization/*.csv
-!Visualization/merged_trend_data.csv
-!Visualization/merged_area_data.csv
-!Visualization/cls_report_gannub.csv
-!Visualization/classification_report_1.csv
