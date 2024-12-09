@@ -100,13 +100,13 @@ with col3:
     st.subheader("predict reliability (cite_count >= 5)")
     st.image(image, caption="This is a predictation result", use_container_width=True)
 with col4:
-    st.subheader("classification report")
+    st.subheader("")
     st.dataframe(df_ml_1)
 
 col5, col6 = st.columns(2)
 with col5:
-    st.subheader("Showing something ask Sitt later")
+    st.subheader("predict citaion count (partition by 10)")
     st.image(image_ml_2, caption="This is a predictation result")
 with col6:
-    st.subheader("classification report")
+    st.subheader("")
     st.dataframe(df_ml_2, height=528)
