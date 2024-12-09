@@ -9,10 +9,12 @@ import matplotlib.patches as mpatches
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+import streamlit as st
+from PIL import Image
 
 # Page configuration
 st.set_page_config(layout="wide")
-st.title('Dataset Analysis')
+st.title('Scopus Dataset Analysis')
 
 # Load the dataset
 @st.cache_data
@@ -77,3 +79,34 @@ with col2:
     )
 
     st.plotly_chart(fig_line)
+
+# 2. Trend Keyword
+st.header("2. Machine Learning Result")
+
+# Load and display the image
+def load_image(file):
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(script_dir, file)
+    return Image.open(file_path)
+
+image = load_image('ML.png')  # Replace with your image path
+df_ml_1 = load_data('classification_report_1.csv')
+
+image_ml_2 = load_image('ML2.png')
+df_ml_2 = load_data('cls_report_gannub.csv')
+
+col3, col4 = st.columns(2)
+with col3:
+    st.subheader("predict reliability (cite_count >= 5)")
+    st.image(image, caption="This is a predictation result", use_container_width=True)
+with col4:
+    st.subheader("classification report")
+    st.dataframe(df_ml_1)
+
+col5, col6 = st.columns(2)
+with col5:
+    st.subheader("Showing something ask Sitt later")
+    st.image(image_ml_2, caption="This is a predictation result")
+with col6:
+    st.subheader("classification report")
+    st.dataframe(df_ml_2, height=528)
