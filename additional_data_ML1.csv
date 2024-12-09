@@ -1,4 +1,4 @@
-title,Author_count,Open_access,Unique_affiliations_count,citedby_count
+title,author_count,open_access,unique_affiliations_count,cite_count
 Removing atmospheric noise from InSAR interferograms in mountainous regions with a convolutional neural network,3,1,2,0
 Bornean Orangutan Nest Classification using Image Enhancement with Convolutional Neural Network and Kernel Multi Support Vector Machine Classifier,8,1,5,0
 Interpreting hourly mass concentrations of PM<inf>2.5</inf> chemical components with an optimal deep-learning model,5,0,4,3
